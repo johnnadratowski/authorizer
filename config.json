@@ -14,10 +14,4 @@
         "collection": "acls",
         "keep_test_db": true
     },
-    "sso": {
-        "host": "login.unifiedsocial.com",
-        "https": true,
-        "keyless_sso": "945dd43c28ac295c5140a9923c020e09",
-        "keyless_token": "f6e85600b624844b0d2be0a43f0327018f3431ad2e3848eb955401fab66cb13b"
-    },
 }
