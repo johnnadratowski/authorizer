@@ -6,3 +6,4 @@ go get github.com/gorilla/context
 go get github.com/gorilla/sessions
 go get github.com/gorilla/securecookie
 go get labix.org/v2/mgo
+go get github.com/johnnadratowski/droplet
